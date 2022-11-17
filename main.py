@@ -1,4 +1,4 @@
-from tkinter.font import names
+#from tkinter.font import names
 import streamlit as st
 import pickle
 import pandas as pd
